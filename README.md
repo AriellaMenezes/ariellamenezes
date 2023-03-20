@@ -2,14 +2,13 @@
 
 
 
- 👩🏻‍💻 Dev Front-End
+ 🧠 Dev Front-End em evolução🦅
  
  
 
 <div align="center">
-  <a href="https://github.com/mrsmiwwa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrsmiwwa&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsmiwwa&layout=compact&langs_count=7&theme=aura"/>
+  <a href="https://github.com/AriellaMenezes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsmiwwa&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <div style="display: inline_block"><br>
